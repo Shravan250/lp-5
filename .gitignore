@@ -1,0 +1,13 @@
+.DS_Store
+
+
+fashion-mnist_test.csv
+fashion-mnist_train.csv
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# C++
+*.out
+*.exe
